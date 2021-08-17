@@ -14,7 +14,7 @@ A `config.json` file that contains the credentials for this user:
 
 ```json
 {
-    "o365User": "username",
+    "o365User": "username@domain.com",
     "o365UserPW": "password"
 }
 ```
